@@ -1,0 +1,254 @@
+.ANASAYFA
+{
+    
+    width: 1000px;
+    min-height: 900px;
+    margin: auto;
+    background-color: rgb(223, 221, 221);
+}
+p{
+    color:rgb(24, 116, 119)
+}
+h3{
+    color:rgb(10, 94, 97);
+}
+#MENU
+{
+    
+    height: 160px;
+    list-style:none;
+    position: relative;
+    bottom: 15px;
+    background-color:cornflowerblue
+    
+}
+#LOGO
+{
+    display: inline;
+    position: relative;
+    right: 763px;
+}
+.SLİDER
+{
+    position: relative;
+    bottom: 80px;
+    margin:auto;
+}
+
+
+nav #MENU li
+{
+     display: inline;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 65px;
+    background-color:rgb(224, 139, 139);
+    min-width: 135px;
+    float: left;
+    margin-left: 5px;
+    position: relative;
+    top: 30px;
+    left: 225px;
+    padding: 15px;
+    
+}
+.menu
+{
+    color:rgb(16, 16, 156);
+    font-weight: bolder;
+    text-decoration:none;
+    padding-left: 10px;
+
+    
+}
+
+#WATSP
+{
+    
+    width: 65px;
+    height: 55px;
+    display: inline;
+    position: relative;
+    bottom: 155px;
+    left: 203px;
+}
+
+.KUTUANA
+{
+
+width: 900px;
+height: 480px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 50px;
+
+}
+        
+
+.KUTUREF
+{
+    width: 900px;
+    min-height: 400px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+.KUTUGALERİ
+{
+width: 900px;
+height: 420px;
+margin: auto;
+margin-top: 15px;
+margin-bottom: 50px;
+}
+.buyut:hover
+{
+-ms-transform: scale(1.2); /* IE 9 */
+-webkit-transform: scale(1.2); /* Safari 3-8 */
+ transform: scale(1.1); 
+}
+
+
+.KUTUÜRÜN
+{
+width: 900px;
+min-height: 500px;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 50px;
+}
+.kckkutu
+{
+    width: 280px;
+    min-height:250px;
+    float: left;
+    margin: auto;
+    margin: 7px;
+  
+}
+.kckkutu2
+{
+width: 400px;
+min-height: 350px;
+float: left;
+margin:10px;
+margin-left: 27px;
+}
+
+.kckkutu3
+{
+    width: 400px;
+    min-height: 350px;
+    float: left;
+    margin:10px;
+    margin-left: 27px;
+
+}
+#button
+{
+
+background-color:indianred;
+height: 40px;
+width: 120px;
+margin-left: 10px;
+}
+#KUTU2
+{
+    width: 900px;
+    min-height: 400px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+#resımlr
+{
+    
+    margin:20px;
+}
+.prgrf
+{
+    margin: 15px;
+}
+#DAHA
+{
+    background-color:seagreen;
+    width: 120px;
+    height: 50px;
+}
+
+#RESS
+{
+    position: relative;
+    left: 300px;
+    
+}
+#İLETİ
+{
+height: 600px;
+background: url("RESİMLER/backk.jpg");
+color:rgb(136, 7, 7);
+font-weight:bold;
+margin-top: 10px;
+position: relative;
+bottom: 30px;
+
+}
+#ULAŞ
+{
+
+position: relative;
+left: 650px;
+bottom: 20px;
+
+}
+#FORM
+{
+
+
+
+}
+#FOOTER
+{
+    width: 1000px;
+    min-height: 270px;
+    background-color:rgb(109, 173, 175);
+    margin: auto;
+}
+
+.Footer_
+{
+    display: inline;
+    border-style:inset;
+    border-color:rgb(53, 100, 143);
+    width: 230px;
+    height: 220px;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+    
+}
+.SÖZ
+{
+   color:rgb(16, 16, 231);
+}
+.footer_bslk
+{
+
+    margin-left: 25px;
+}
+.Footer_ li
+{
+
+padding: 10px;
+list-style: none;
+}
+.rfrns
+{
+    border-style: double;
+    width: 300px;
+    height: 250px;
+}
